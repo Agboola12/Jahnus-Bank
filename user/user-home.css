@@ -1,5 +1,5 @@
 header{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),url('../images/44.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),url('.../images/44.jpg');
     background-size: cover;
     background-attachment: fixed;
     -moz-background-size: cover;
